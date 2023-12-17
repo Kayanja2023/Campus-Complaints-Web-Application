@@ -1,0 +1,12 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: bp_defaultapplication
+adx_entityname: Admin to Permits
+adx_entitypermission_webrole:
+- 6afadc96-77c5-ed11-b597-000d3a35bd8f
+adx_entitypermissionid: e04de290-77c5-ed11-b597-000d3a35bd8f
+adx_read: true
+adx_scope: 756150000
+adx_write: true
